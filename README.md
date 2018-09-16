@@ -5,7 +5,7 @@ A simple skripts that makes you sick.
 
 ```
 1. Put the script in your resource-map.
-2. WWrite esx_kr_illness in your server.cfg.
+2. Write esx_kr_illness in your server.cfg.
 3. Insert the item.sql into your database.
 ```
 [PLEASE NOTE]
