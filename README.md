@@ -8,3 +8,7 @@ A simple skripts that makes you sick.
 2. Put esx_kr_illness in your server.cfg
 3. Insert the item.sql into your database.
 ```
+[PLEASE NOTE]
+```
+I ask you to not re-release this script or sell it.
+```
