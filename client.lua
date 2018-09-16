@@ -53,6 +53,7 @@ while true do
     if ill then
 
 ill = false
+    end
   end
 end)
 
