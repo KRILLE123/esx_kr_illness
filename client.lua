@@ -1,10 +1,4 @@
-ESX               = nil
 local ill = false
-
-RegisterNetEvent('esx:playerLoaded')
-AddEventHandler('esx:playerLoaded', function(xPlayer)
-  PlayerData = xPlayer
-end)
 
 Citizen.CreateThread(function()
 
