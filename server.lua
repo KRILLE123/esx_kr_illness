@@ -8,5 +8,5 @@ ESX.RegisterUsableItem('anti', function(source)
 	local xPlayer = ESX.GetPlayerFromId(source)
 
 	xPlayer.removeInventoryItem('anti', 1)
-TriggerClientEvent('esx_kr_ill:frisk')
+TriggerClientEvent('esx_kr_ill:frisk', source)
 end)
