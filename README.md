@@ -12,5 +12,4 @@ A simple skripts that makes you sick.
 ```
 I ask you to not re-release this script or sell it.
 ```
-[SERVER]
-This script was made for my server called Swedish Futurum, enjoy.
+
