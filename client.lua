@@ -1,5 +1,5 @@
 local ill = false
-local chance = 6 -- The chance of being sick, checks every minute. 
+local chance = 6 -- The chance of being sick, checks every minute. It can't say 1 because it has to be lower than 1, which is 0. As default it's set to 5% (number 6).
 
 Citizen.CreateThread(function()
 
