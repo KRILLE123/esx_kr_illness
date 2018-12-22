@@ -8,8 +8,8 @@ while true do
 
   local chanceill = math.random(1, 100)
 
-   if chanceill < chance then
-       ill = true
+   if chanceill < chance then -- Checks if the randomized number is under 6, 5% of 100 (as default).
+       ill = true -- Getting sick if you successfully got under the "chance".
 
     end
   end
