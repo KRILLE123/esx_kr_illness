@@ -8,7 +8,7 @@ while true do
 
   local chanceill = math.random(1, 100)
 
-   if chanceill < 6 then
+   if chanceill < chance then
        ill = true
 
     end
