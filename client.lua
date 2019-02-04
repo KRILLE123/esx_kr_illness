@@ -42,7 +42,7 @@ end)
 Citizen.CreateThread(function()
 while true do
 
-     local chanstillfrisk = math.random(900000, 1800000) -- Chance of being health by yourself
+     local chanstillfrisk = math.random(900000, 1800000) -- Chance of being healthy by yourself
 
     Citizen.Wait(chanstillfrisk)
 
